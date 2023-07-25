@@ -1,3 +1,5 @@
+import './ConceptItems.css';
+
 const ConceptItems = (props) => {
   return (
     <li className="concept">
